@@ -1,6 +1,6 @@
 module.exports = {
 
-    'secret': 'ilikeurmum',
+    'secret': 'asecret',
     'database': 'mongodb://localhost:27017/robotpi'
 
 };
