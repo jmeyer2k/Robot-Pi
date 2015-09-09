@@ -1,0 +1,27 @@
+{
+  "name": "robotpi",
+  "version": "1.0.0",
+  "description": "A framework for writing universal code for robots.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmeyer2k/robotpi.git"
+  },
+  "author": "Julian Meyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmeyer2k/robotpi/issues"
+  },
+  "homepage": "https://github.com/jmeyer2k/robotpi#readme",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.0.5",
+    "mongo": "^0.1.0",
+    "mongoose": "^4.1.6",
+    "morgan": "^1.6.1"
+  }
+}
